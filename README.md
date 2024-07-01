@@ -10,15 +10,12 @@ The Captcha Recognition Model utilizes convolutional neural networks (CNNs) to p
 ## Installation
 To run the notebook and train the model, follow these steps:
 
-1. Clone the repository
+Clone the repository
 ```
 git clone https://github.com/HimanshuMK/Captcha-Recognition-Model.git
 cd Captcha-Recognition-Model
 ```
-2. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
+
 ## Usage
 1. Open the Jupyter notebook:
 ```
