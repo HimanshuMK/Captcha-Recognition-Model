@@ -5,7 +5,7 @@ This repository contains a Captcha Recognition Model built using deep learning t
 The Captcha Recognition Model utilizes convolutional neural networks (CNNs) to process and interpret CAPTCHA images. The model is trained on a dataset of CAPTCHA images to accurately predict the characters in the images.
 
 ## Contents
-* 'Captcha_model.ipynb': Jupyter notebook containing the entire process of data preparation, model building, training, and evaluation.
+* Captcha_model.ipynb: Jupyter notebook containing the entire process of data preparation, model building, training, and evaluation.
 
 ## Installation
 To run the notebook and train the model, follow these steps:
@@ -32,6 +32,10 @@ The notebook covers:
 
 ## Results
 The model achieves [mention accuracy/other metrics] on the test dataset. Detailed results and performance metrics are provided in the notebook.
+
+## FastAPI Application
+For those who want to check out the FastAPI-based application for predicting CAPTCHAs, visit the following link:
+[FastAPI CAPTCHA Prediction Application](https://github.com/HimanshuMK/FastAPI_captcha_app)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
